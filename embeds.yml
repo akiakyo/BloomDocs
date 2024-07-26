@@ -75,6 +75,21 @@ voicechat:
     - [ 'Bukkit', 'https://dev.bukkit.org/projects/simple-voice-chat' ]
     - [ 'Docs', 'https://docs.bloom.host/multiplatform/simple-voice-chat/' ]
 
+java21:
+  aliases:
+    - 'java21'
+  thumbnail: 'https://raw.githubusercontent.com/Bloom-host/BloomDocs/master/static/discord/tY6IAF.png'
+  image: 'https://github.com/akiakyo/BloomDocs/blob/master/static/discord/java21.png?raw=true'
+  title: 'Minecraft 1.20.5 - 1.21 needs Java 21'
+  title-icon: '%guildicon%'
+  description: |+
+    The new release of Minecraft 1.20.5 and its latest 1.21
+    needs Java 21
+    
+    To update your Java version, click to the Startup tab and select Java 21 
+    from the Java Version column. You can see our [detailed guide](https://docs.bloom.host/java-version/) for 
+    changing your server's Java version.
+
 demo:
   aliases: [ 'demopanel' ]
   title: '<:aaaduck:755553395363938344> Bloom.host Demo Panel'
