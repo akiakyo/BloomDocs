@@ -57,6 +57,11 @@ billing:
   buttons:
     - [ 'Open Billing Ticket', 'https://billing.bloom.host/submitticket.php', '<:bloom:732019289741066379>', '1' ]
 
+tryandsee:
+  aliases:
+    - 'tra'
+  image: 'https://raw.githubusercontent.com/akiakyo/BloomDocs/refs/heads/master/static/discord/try-it-and-see-give-it-a-try.gif'
+
 voicechat:
   aliases:
     - 'vc'
